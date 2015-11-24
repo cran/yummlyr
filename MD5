@@ -1,6 +1,5 @@
-693d835b43ebc97d62fb53633fabb09f *DESCRIPTION
+12afaf9e7f64227241950802eb8129d9 *DESCRIPTION
 aba89e0934fc195b4c95f0cb15aa9999 *NAMESPACE
-7fea240603aca8c057c11e55860fd8f7 *NEWS.md
 5c1cd7e6f91c2dd68d451bf33d5d48db *R/client.R
 81d7b82d3dd2bf567e0b1d7125cbb588 *R/get.R
 e4840caf989b1fde0f0d38ca1b62e05d *R/helpers.R
@@ -23,5 +22,5 @@ f79a018d6999e3a0896fa2bdda41dd09 *man/perform_query.Rd
 e62ebdfe69b8e78b9601968839d2c4b8 *man/yummlyr_options.Rd
 ae7cb39d84f3849344490595dd7727f8 *tests/testthat.R
 93772e8e08714110f35df60d57f618d7 *tests/testthat/test-get.R
-3715a6131f4dbef03376eed19042965a *tests/testthat/test-search.R
+2494a6bc2cfb55db74b9961f91b60f10 *tests/testthat/test-search.R
 0eb3ee86461e2d7ce94b77d4e31e7aa2 *vignettes/yummlyr.Rmd
